@@ -1,0 +1,15 @@
+DBMS: Database Management System
+
+It is software which allows users to access database, dave data, retrieve it, updata it and manage it
+
+Presence of rules and regulations is important to maintain the data effectively
+
+Applications of DBMS:
+Schools and colleges: to store student's records, attendance, staff info, personal details , effectively
+
+banks: to store and maintain customer information, personal details, account numbers and transaction history
+
+airlines: schedule of flights, details of staff, details of passengers etc
+
+
+

@@ -1,0 +1,29 @@
+
+Database: collection of inter-related Database
+
+Wife and husband is related with marriage databbase
+
+student and teacher is related because of college, school database
+
+File System: it is OS approach for storing and organising data using files and folders
+
+File System acts as interface between data and user
+
+Disadvantages of file System
+    1. Data Redundancy: Repetation of data
+    Eg: Data stored in registers of schools and college
+        name and roll no are repeated
+
+    2. Poor memory utilization:
+
+    3. Data Inconsistency:
+    Eg: Making change in one register but not in others
+    now, the age of one register is updated while other register do not contain updated data
+    Now, it leads to Inconsistency that which age is correct
+
+    4. Data Security: top most priority
+    Eg: to restrict usage of data by someone else
+    
+
+
+

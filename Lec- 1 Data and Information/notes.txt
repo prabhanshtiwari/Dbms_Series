@@ -1,0 +1,17 @@
+
+Data: raw facts and figures
+Eg:
+Orange -> it can be fruits or color
+
+12 -> it can be age, roll_no, pocket money
+
+information: processed data
+Eg:
+fruits
+Orange
+
+Here, orange is fruit
+
+informationg ive some meaning to the unprocessed data
+
+Data -> Processing -> information
