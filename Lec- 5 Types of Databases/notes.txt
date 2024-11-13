@@ -1,0 +1,73 @@
+Types of Databases:
+In this lecture, we'll get a brief overview of the various types of databases commonly used in different applications:
+
+Relational Database:
+
+Most widely used database type.
+Stores data using tables with rows and columns.
+Examples: MySQL, Oracle, Microsoft SQL Server.
+
+NoSQL Database:
+
+Stands for "Not only SQL".
+Stores data in key-value pairs, similar to a hashmap.
+Best for handling unstructured data.
+Example: MongoDB.
+
+Object-Oriented Database:
+
+Stores data in the form of objects (like in object-oriented programming).
+Useful for scientific simulations and applications needing object storage.
+
+In-Memory Database:
+
+Data is stored in primary memory (RAM) for fast access.
+Great for applications requiring low latency.
+
+Time-Series Database:
+
+Optimized for storing time-stamped data like stock prices or sensor readings.
+
+Spatial Database:
+
+Designed to store geometric shapes and spatial data (e.g., maps, GPS data).
+
+Multimedia Database:
+
+Used to store multimedia content such as text, images, and videos.
+
+Columnar Database:
+
+Stores data in columns rather than rows, which improves query performance for large datasets.
+
+XML Database:
+
+Data is stored in XML format, useful for applications that need to work with XML data.
+
+NewSQL Database:
+
+Aims to bridge the gap between traditional SQL databases and NoSQL databases.
+Combines the scalability of NoSQL with the ACID properties of relational databases.
+
+Blockchain Database:
+
+Stores data in blocks linked together to form a secure, immutable chain.
+
+Key Details:
+
+Relational Database:
+
+Data is stored in tables with predefined relationships between them.
+Allows for complex data manipulation and querying.
+
+NoSQL Database:
+
+Created to handle data that doesn't fit into the rigid structure of relational databases.
+
+Object-Oriented Database:
+
+Useful in situations requiring data to be stored as objects, especially in scientific and engineering simulations.
+
+In-Memory Database:
+
+Stores data in RAM, making it ideal for use cases where speed is crucial, like real-time analytics.
