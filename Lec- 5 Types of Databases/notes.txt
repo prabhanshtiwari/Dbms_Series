@@ -71,3 +71,6 @@ Useful in situations requiring data to be stored as objects, especially in scien
 In-Memory Database:
 
 Stores data in RAM, making it ideal for use cases where speed is crucial, like real-time analytics.
+
+
+Link for article : https://takeuforward.org/dbms/dbms-and-its-applications
